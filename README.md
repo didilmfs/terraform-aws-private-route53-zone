@@ -1,7 +1,7 @@
 # terraform-aws-private-route53-zone
 
 
-[![Terraform Version](https://img.shields.io/badge/Terraform%20Version->=0.12.0,<=0.12.31-blue.svg)](https://releases.hashicorp.com/terraform/)
+[![Terraform Version](https://img.shields.io/badge/Terraform%20Version->=0.13.0,<=0.13.7-blue.svg)](https://releases.hashicorp.com/terraform/)
 [![Release](https://img.shields.io/github/release/traveloka/terraform-aws-private-route53-zone.svg)](https://github.com/traveloka/terraform-aws-private-route53-zone/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/traveloka/terraform-aws-private-route53-zone.svg)](https://github.com/traveloka/terraform-aws-private-route53-zone/commits/master)
 [![Issues](https://img.shields.io/github/issues/traveloka/terraform-aws-private-route53-zone.svg)](https://github.com/traveloka/terraform-aws-private-route53-zone/issues)
@@ -40,7 +40,7 @@ Doesn't have any dependencies to any other Terraform module
 
 ## Terraform Versions
 
-This module was created on 04/04/2018 using Terraform version 0.11.14. The latest stable version of Terraform which this module tested working is Terraform 0.12.31 on 20/09/2021
+This module was created on 04/04/2018 using Terraform version 0.11.14. The latest stable version of Terraform which this module tested working is Terraform 0.13.7 on 20/09/2021
 
 ## Terraform Providers
 
@@ -55,7 +55,7 @@ This module was created on 04/04/2018 using Terraform version 0.11.14. The lates
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 0.12 |
+| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 0.13 |
 
 ## Providers
 
